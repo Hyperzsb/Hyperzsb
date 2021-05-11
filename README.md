@@ -5,8 +5,8 @@ Here is **Hyperzsb**.
 My blog is **[Hyperzsb's Ideas](https://blog.hyperzsb.tech/)**
 
 <div style="display: flex; width: 100%; flex-direction: row; flex-wrap: nowrap; justify-content: space-around">
-	<img src="https://github-readme-stats.vercel.app/api?username=Hyperzsb&show_icons=true&theme=dark&include_all_commits=true" style="display: inline-block; height:200px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hyperzsb&layout=compact&theme=dark&langs_count=6" style="display: inline-block; height:200px;" />
+	<img src="https://github-readme-stats.vercel.app/api?username=Hyperzsb&show_icons=true&theme=dark&hide_border=true&include_all_commits=true" style="display: inline-block; height:200px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hyperzsb&layout=compact&theme=dark&hide_border=true&langs_count=6" style="display: inline-block; height:200px;" />
 </div>
 
 <div style="display: flex; width: 100%; flex-direction: row; flex-wrap: nowrap; justify-content: center; padding: 10px 0;">
