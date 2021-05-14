@@ -4,9 +4,9 @@ Here is **Hyperzsb**.
 
 My blog is **[Hyperzsb's Ideas](https://blog.hyperzsb.tech/)**
 
-<div style="display: flex; width: 100%; flex-direction: row; flex-wrap: nowrap; justify-content: space-around">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hyperzsb&layout=compact&theme=dark&bg_color=22272e&hide_border=true&langs_count=8" style="display: inline-block; height:200px;" height="170px"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Hyperzsb&show_icons=true&theme=dark&bg_color=22272e&hide_border=true&include_all_commits=true" style="display: inline-block; height:200px" height="170px"/>
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hyperzsb&layout=compact&theme=dark&bg_color=22272e&hide_border=true&langs_count=8" style="display: inline-block; height: 170px;" height="170px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Hyperzsb&show_icons=true&theme=dark&bg_color=22272e&hide_border=true&include_all_commits=true" style="display: inline-block; height: 170px" height="170px"/>
 </div>
 
 <!-- 
