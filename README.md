@@ -31,14 +31,28 @@ IT-related technologies.</h3>
 📫 How to reach me: <a href="mailto:hyperzsb@outlook.com" target="_blank"><b>hyperzsb@outlook.com</b></a>
 </p>
 
-<p align="center" style="padding: 15px">
-<a href="https://twitter.com/hyperzsb" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hyperzsb" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/hyperzsb" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="hyperzsb" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCpFjl9dlLOTEa99rKV7trrQ" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucpfjl9dllotea99rkv7trrq" height="30" width="40" /></a>
+<p align="center">
+    <a href="https://twitter.com/hyperzsb" target="_blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" title="Twitter" height="30" width="40" />
+    </a>
+    <a href="https://stackoverflow.com/users/hyperzsb" target="_blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" title="Stack Overflow" height="30" width="40" />
+    </a>
+    <a href="https://www.youtube.com/channel/UCpFjl9dlLOTEa99rKV7trrQ" target="_blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" title="YouTube" height="30" width="40" />
+    </a>
 </p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hyperzsb&layout=compact&theme=dark&bg_color=22272e&hide_border=true&langs_count=8" style="display: inline-block; height: 170px;"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Hyperzsb&show_icons=true&theme=dark&bg_color=22272e&hide_border=true&include_all_commits=true&custom_title=Hyperzsb's GitHub Status&disable_animations=true" style="display: inline-block; height: 170px;"/>
-</div>
+<p align="center">
+    <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
+        <img src="https://github-profile-trophy.vercel.app/?username=hyperzsb&theme=onedark&no-bg=true&no-frame=true&column=3&title=MultiLanguage,Commits,Issues" alt="GitHub Profile Trophy" title="GitHub Profile Trophy"/>
+    </a>
+</p>
+
+<p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hyperzsb&layout=compact&theme=onedark&bg_color=22272e00&hide_border=true&langs_count=8" alt="Top Languages" title="Top Languages" height="170"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=Hyperzsb&show_icons=true&theme=onedark&bg_color=22272e00&hide_border=true&hide_rank=true&include_all_commits=true&custom_title=Hyperzsb's GitHub Status&disable_animations=true" alt="GitHub Status" title="GitHub Status" height="170"/>
+    </a>
+</p>
 
