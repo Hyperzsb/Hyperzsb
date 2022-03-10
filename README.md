@@ -1,10 +1,15 @@
-<h1 align="center">Hi 👋, here is hyperzsb</h1>
+<h1 align="center">
+Hi 👋, here is hyperzsb
+</h1>
 
-<h3 align="center">A free developer, interested in Web full-stack, Blockchain, cybersecurity, DevOps, OS, and other
-IT-related technologies.</h3>
+<h3 align="center">
+A free developer, interested in Web full-stack, Blockchain, cybersecurity, DevOps, OS, and other IT-related technologies.
+</h3>
 
-<p align="center" style="padding: 15px"> 
-<img src="https://komarev.com/ghpvc/?username=hyperzsb&label=Profile%20views&color=0e75b6&style=flat" alt="hyperzsb" /> 
+<p align="center">
+    <a href="https://github.com/antonkomarev/github-profile-views-counter" target="_blank">
+        <img src="https://komarev.com/ghpvc/?username=hyperzsb&label=Profile%20views&color=0e75b6&style=flat" alt="hyperzsb" />
+    </a>
 </p>
 
 <p align="center">
@@ -52,6 +57,8 @@ IT-related technologies.</h3>
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hyperzsb&layout=compact&theme=onedark&bg_color=22272e00&hide_border=true&langs_count=8" alt="Top Languages" title="Top Languages" height="170"/>
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api?username=Hyperzsb&show_icons=true&theme=onedark&bg_color=22272e00&hide_border=true&hide_rank=true&include_all_commits=true&custom_title=Hyperzsb's GitHub Status&disable_animations=true" alt="GitHub Status" title="GitHub Status" height="170"/>
     </a>
 </p>
