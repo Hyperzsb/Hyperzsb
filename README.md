@@ -3,7 +3,7 @@ Hi 👋, here is hyperzsb
 </h1>
 
 <h3 align="center">
-A free developer, interested in Web full-stack, Blockchain, cybersecurity, DevOps, OS, and other IT-related technologies.
+I am a free developer 👨‍💻 (also still a student 👨‍🎓), interested in fullstack, Blockchain, Web 3, DevOps, and other state-of-the-art technologies.
 </h3>
 
 <p align="center">
