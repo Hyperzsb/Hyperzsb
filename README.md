@@ -21,15 +21,15 @@ I am a free developer 👨‍💻 (also still a student 👨‍🎓), interested
 </p>
 
 <p align="center">
-💬 Ask me about <b>Web fullstack & Blockchain</b>
+💬 Ask me about <b>Web fullstack, DevOps, and Blockchain</b>
 </p>
 
 <p align="center">
-👨‍💻 All of my projects are available at: <a href="https://hyperzsb.io" target="_blank"><b>hyperzsb.io</b></a>
+👨‍💻 Some of my projects are available at: <a href="https://hyperzsb.io" target="_blank"><b>hyperzsb.io</b></a>
 </p>
 
 <p align="center">
-📝 I regularly write articles on: <a href="https://blog.hyperzsb.tech" target="_blank"><b>blog.hyperzsb.tech</b></a>
+📝 I regularly write articles on: <a href="https://hyperzsb.io/posts" target="_blank"><b>hyperzsb.io/posts</b></a>
 </p>
 
 <p align="center">
