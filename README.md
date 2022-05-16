@@ -1,6 +1,12 @@
 <h1 align="center">
+    <img src="https://github.com/Hyperzsb/Hyperzsb/raw/master/images/github/bitrxc/github-header-image.png" alt="Hi 👋, here is hyperzsb" />
+</h1>
+
+<!--
+<h1 align="center">
 Hi 👋, here is hyperzsb
 </h1>
+-->
 
 <h3 align="center">
 I am a free developer 👨‍💻 (also still a student 👨‍🎓), interested in fullstack, Blockchain, Web 3, DevOps, and other state-of-the-art technologies.
