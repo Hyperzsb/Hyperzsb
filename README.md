@@ -1,6 +1,16 @@
 <h1 align="center">
-    <img src="https://github.com/Hyperzsb/Hyperzsb/raw/master/images/github/Hyperzsb/github-header-image.png" alt="Hi 👋, here is hyperzsb" />
+    <a href="https://github.com/DenverCoder1/readme-typing-svg">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Josefin+Sans&size=30&color=DEE2E6&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+here+is+hyperzsb" alt="Hi 👋, here is hyperzsb" title="Hi 👋, here is hyperzsb"/>
+    </a>
 </h1>
+
+<!--
+<h1 align="center">
+    <a href="https://github.com/leviarista/github-profile-header-generator">
+        <img src="https://github.com/Hyperzsb/Hyperzsb/raw/master/images/github/Hyperzsb/github-header-image.png" alt="Hi 👋, here is hyperzsb" title="Hi 👋, here is hyperzsb" />
+    </a>
+</h1>
+-->
 
 <!--
 <h1 align="center">
@@ -13,7 +23,7 @@ I am a free developer 👨‍💻 (also still a student 👨‍🎓), interested
 </h3>
 
 <p align="center">
-    <a href="https://github.com/antonkomarev/github-profile-views-counter" target="_blank">
+    <a href="https://github.com/antonkomarev/github-profile-views-counter">
         <img src="https://komarev.com/ghpvc/?username=hyperzsb&label=Profile%20views&color=0e75b6&style=flat" alt="hyperzsb" />
     </a>
 </p>
@@ -31,11 +41,11 @@ I am a free developer 👨‍💻 (also still a student 👨‍🎓), interested
 </p>
 
 <p align="center">
-👨‍💻 Some of my projects are available at: <a href="https://hyperzsb.io" target="_blank"><b>hyperzsb.io</b></a>
+👨‍💻 Some of my projects are available at: <a href="https://hyperzsb.io"><b>hyperzsb.io</b></a>
 </p>
 
 <p align="center">
-📝 I regularly write articles on: <a href="https://hyperzsb.io/posts" target="_blank"><b>hyperzsb.io/posts</b></a>
+📝 I regularly write articles on: <a href="https://hyperzsb.io/posts"><b>hyperzsb.io/posts</b></a>
 </p>
 
 <p align="center">
@@ -47,38 +57,40 @@ I am a free developer 👨‍💻 (also still a student 👨‍🎓), interested
 </p>
 
 <p align="center">
-📫 How to reach me: <a href="mailto:hyperzsb@outlook.com" target="_blank"><b>hyperzsb@outlook.com</b></a>
+📫 How to reach me: <a href="mailto:hyperzsb@outlook.com"><b>hyperzsb@outlook.com</b></a>
 </p>
 
 <p align="center">
-    <a href="https://twitter.com/hyperzsb" target="_blank">
+    <a href="https://twitter.com/hyperzsb">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" title="Twitter" height="30" width="40" />
     </a>
-    <a href="https://stackoverflow.com/users/hyperzsb" target="_blank">
+    <a href="https://stackoverflow.com/users/hyperzsb">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" title="Stack Overflow" height="30" width="40" />
     </a>
-    <a href="https://www.youtube.com/channel/UCpFjl9dlLOTEa99rKV7trrQ" target="_blank">
+    <a href="https://www.youtube.com/channel/UCpFjl9dlLOTEa99rKV7trrQ">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" title="YouTube" height="30" width="40" />
     </a>
 </p>
 
 <p align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img src="https://github-profile-trophy.vercel.app/?username=hyperzsb&theme=onedark&no-bg=true&no-frame=true&column=3&title=MultiLanguage,Commits,Issues" alt="GitHub Profile Trophy" title="GitHub Profile Trophy"/>
     </a>
 </p>
 
 <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hyperzsb&layout=compact&theme=onedark&bg_color=22272e00&hide_border=true&langs_count=8" alt="Top Languages" title="Top Languages" height="170"/>
     </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
         <img src="https://github-readme-stats.vercel.app/api?username=Hyperzsb&show_icons=true&theme=onedark&bg_color=22272e00&hide_border=true&hide_rank=true&include_all_commits=true&custom_title=Hyperzsb's GitHub Status&disable_animations=true" alt="GitHub Status" title="GitHub Status" height="170"/>
     </a>
 </p>
 
+<!--
 <p align="center">
-    <a href="https://github.com/DenverCoder1/readme-typing-svg" target="_blank">
+    <a href="https://github.com/DenverCoder1/readme-typing-svg">
         <img src="https://readme-typing-svg.herokuapp.com?font=Josefin+Sans&size=30&color=DEE2E6&center=true&width=800&lines=Never+compromise%2C+not+even+in+the+face+of+Armageddon." alt="Never compromise, not even in the face of Armageddon." title="Never compromise, not even in the face of Armageddon."/>
     </a>
 </p>
+-->
