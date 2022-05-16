@@ -77,3 +77,8 @@ I am a free developer 👨‍💻 (also still a student 👨‍🎓), interested
     </a>
 </p>
 
+<p align="center">
+    <a href="https://github.com/DenverCoder1/readme-typing-svg" target="_blank">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Josefin+Sans&size=30&color=DEE2E6&center=true&width=800&lines=Never+compromise%2C+not+even+in+the+face+of+Armageddon." alt="Never compromise, not even in the face of Armageddon." title="Never compromise, not even in the face of Armageddon."/>
+    </a>
+</p>
