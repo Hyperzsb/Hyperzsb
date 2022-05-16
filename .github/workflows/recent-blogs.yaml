@@ -16,4 +16,4 @@ jobs:
         with:
           feed_list: "https://hyperzsb.io/feed.xml"
           max_post_count: 3
-          template: "[ <a href=\"$url\" title=\"$title\">$title</a> ]"
+          template: "<span>[ <a href=\"$url\" title=\"$title\">$title</a> ]</span>"

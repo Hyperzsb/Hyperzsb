@@ -19,33 +19,36 @@ I am a free developer 👨‍💻 (also still a student 👨‍🎓), interested
 </p>
 
 <p align="center">
-🔭 I’m currently working on <b>my graduation project...</b>
+🔭  I’m currently working on <b>my graduation project...</b>
 </p>
 
 <p align="center">
-🌱 I’m currently learning <b>Go & Web 3</b>
+🌱  I’m currently learning <b>Go & Web 3</b>
 </p>
 
 <p align="center">
-💬 Ask me about <b>Web fullstack, DevOps, and Blockchain</b>
+💬  Ask me about <b>Web fullstack, DevOps, and Blockchain</b>
 </p>
 
 <p align="center">
-👨‍💻 Some of my projects are available at: <a href="https://hyperzsb.io" target="_blank"><b>hyperzsb.io</b></a>
+👨‍💻  Some of my projects are available at: <a href="https://hyperzsb.io" target="_blank"><b>hyperzsb.io</b></a>
 </p>
 
 <p align="center">
-📝 I regularly write articles on: <a href="https://hyperzsb.io/posts" target="_blank"><b>hyperzsb.io/posts</b></a>
+📝  I regularly write articles on: <a href="https://hyperzsb.io/posts" target="_blank"><b>hyperzsb.io/posts</b></a>
 </p>
 
 <p align="center">
-📎 And here are some recent posts: <br>
+📎  And here are some recent posts:
+</p>
+
+<p align="center">
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 </p>
 
 <p align="center">
-📫 How to reach me: <a href="mailto:hyperzsb@outlook.com" target="_blank"><b>hyperzsb@outlook.com</b></a>
+📫  How to reach me: <a href="mailto:hyperzsb@outlook.com" target="_blank"><b>hyperzsb@outlook.com</b></a>
 </p>
 
 <p align="center">
