@@ -39,6 +39,12 @@ I am a free developer 👨‍💻 (also still a student 👨‍🎓), interested
 </p>
 
 <p align="center">
+📎 And here are some recent posts: <br>
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+</p>
+
+<p align="center">
 📫 How to reach me: <a href="mailto:hyperzsb@outlook.com" target="_blank"><b>hyperzsb@outlook.com</b></a>
 </p>
 
