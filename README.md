@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://github.com/Hyperzsb/Hyperzsb/raw/master/images/github/bitrxc/github-header-image.png" alt="Hi 👋, here is hyperzsb" />
+    <img src="https://github.com/Hyperzsb/Hyperzsb/raw/master/images/github/Hyperzsb/github-header-image.png" alt="Hi 👋, here is hyperzsb" />
 </h1>
 
 <!--
