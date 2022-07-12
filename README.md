@@ -57,10 +57,6 @@ I am a free developer 👨‍💻 (also still a student 👨‍🎓), interested
 </p>
 
 <p align="center">
-📫 How to reach me: <a href="mailto:hyperzsb@outlook.com"><b>hyperzsb@outlook.com</b></a>
-</p>
-
-<p align="center">
     <a href="https://twitter.com/hyperzsb">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" title="Twitter" height="30" width="40" />
     </a>
