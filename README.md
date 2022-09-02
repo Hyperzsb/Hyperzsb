@@ -19,7 +19,15 @@ Hi 👋, here is hyperzsb
 -->
 
 <h3 align="center">
-I am a free developer 👨‍💻 (also still a student 👨‍🎓), interested in fullstack, Blockchain, Web 3, DevOps, and other state-of-the-art technologies.
+    <p>
+        I am a free developer 👨‍💻 (also still a student 👨‍🎓) from China 🇨🇳.
+    </p>
+    <p>
+        I have great interests in Web Fullstack, Blockchain, Web 3, DevOps, and other state-of-the-art technologies 🛠.
+    </p>
+    <p>
+        Besides, I am also passionate about every amazing thing in this incredible world 🌏.
+    </p>
 </h3>
 
 <p align="center">
@@ -29,15 +37,15 @@ I am a free developer 👨‍💻 (also still a student 👨‍🎓), interested
 </p>
 
 <p align="center">
-🔭 I’m currently working on <b>my graduation project...</b>
+🔭 I’m currently working hard for the <b>Master's Degree</b>...
 </p>
 
 <p align="center">
-🌱 I’m currently learning <b>Go & Web 3</b>
+🌱 I’m currently learning <b>Security, Go, Web 3, and other cool things</b>
 </p>
 
 <p align="center">
-💬 Ask me about <b>Web fullstack, DevOps, and Blockchain</b>
+💬 Ask me about <b>Web Fullstack, DevOps, and Blockchain</b>
 </p>
 
 <p align="center">
