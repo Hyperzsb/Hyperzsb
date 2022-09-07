@@ -1,6 +1,6 @@
 <h1 align="center">
     <a href="https://github.com/DenverCoder1/readme-typing-svg">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Josefin+Sans&size=30&color=DEE2E6&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+here+is+hyperzsb" alt="Hi 👋, here is hyperzsb" title="Hi 👋, here is hyperzsb"/>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Josefin+Sans&size=30&pause=5000&color=20C997&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+here+is+hyperzsb" alt="Hi 👋, here is hyperzsb" title="Hi 👋, here is hyperzsb"/>
     </a>
 </h1>
 
