@@ -13,6 +13,7 @@ jobs:
       - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_API_TOKEN }}
           SHOW_UPDATED_DATE: True
           UPDATED_DATE_FORMAT: "%Y/%m/%d"
           SHOW_TOTAL_CODE_TIME: True
