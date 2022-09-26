@@ -77,31 +77,6 @@ Hi 👋, here is hyperzsb
 </p>
 
 <p align="center">
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🔥 Editors: 
-Browser                  48 hrs 53 mins      ████████████████████████░   98.26% 
-Zsh                      39 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.33% 
-WebStorm                 11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.39% 
-VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.03%
-
-🐱‍💻 Projects: 
-Terminal                 45 hrs 50 mins      ███████████████████████░░   92.14% 
-assignment-1             3 hrs 43 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   7.47% 
-natalia-theme            11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.39%
-
-```
-
-
- Last Updated on 2022/09/26 UTC
-<!--END_SECTION:waka-->
-</p>
-
-<p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img src="https://github-profile-trophy.vercel.app/?username=hyperzsb&theme=onedark&no-bg=true&no-frame=true&column=3&title=MultiLanguage,Commits,Issues" alt="GitHub Profile Trophy" title="GitHub Profile Trophy"/>
     </a>
@@ -123,3 +98,6 @@ natalia-theme            11 mins             ░░░░░░░░░░░�
     </a>
 </p>
 -->
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
