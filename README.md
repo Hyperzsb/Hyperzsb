@@ -77,6 +77,11 @@ Hi 👋, here is hyperzsb
 </p>
 
 <p align="center">
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+</p>
+
+<p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img src="https://github-profile-trophy.vercel.app/?username=hyperzsb&theme=onedark&no-bg=true&no-frame=true&column=3&title=MultiLanguage,Commits,Issues" alt="GitHub Profile Trophy" title="GitHub Profile Trophy"/>
     </a>
