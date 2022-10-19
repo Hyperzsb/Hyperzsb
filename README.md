@@ -65,6 +65,9 @@ Hi 👋, here is hyperzsb
 </p>
 
 <p align="center">
+    <a href="https://facebook.com/hyperzsb">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" title="Facebook" height="30" width="40" />
+    </a>
     <a href="https://twitter.com/hyperzsb">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" title="Twitter" height="30" width="40" />
     </a>
