@@ -61,7 +61,7 @@ Hi 👋, here is hyperzsb
 </p>
 
 <p align="center">
-<!-- BLOG-POST-LIST:START --><span>[ <a href="https://hyperzsb.io/posts/your-own-terminal/" title="Linux - 自定义你的 Terminal">Linux - 自定义你的 Terminal</a> ]</span><span>[ <a href="https://hyperzsb.io/posts/nginx-auth-basic/" title="Nginx - 配置 Nginx auth_basic 身份验证">Nginx - 配置 Nginx auth_basic 身份验证</a> ]</span><span>[ <a href="https://hyperzsb.io/posts/git-ssl-error/" title="Git - SSL_ERROR_SYSCALL 问题解决">Git - SSL_ERROR_SYSCALL 问题解决</a> ]</span><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START --><span>[ <a href="https://hyperzsb.io/posts/chrome-plugins/" title="Chrome - 浏览器插件">Chrome - 浏览器插件</a> ]</span><span>[ <a href="https://hyperzsb.io/posts/your-own-terminal/" title="Linux - 自定义你的 Terminal">Linux - 自定义你的 Terminal</a> ]</span><span>[ <a href="https://hyperzsb.io/posts/nginx-auth-basic/" title="Nginx - 配置 Nginx auth_basic 身份验证">Nginx - 配置 Nginx auth_basic 身份验证</a> ]</span><!-- BLOG-POST-LIST:END -->
 </p>
 
 <p align="center">
