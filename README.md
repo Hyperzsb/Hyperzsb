@@ -23,7 +23,7 @@ Hi 👋, here is hyperzsb
         I am a free developer 👨‍💻 (also still a student 👨‍🎓) from China 🇨🇳.
     </p>
     <p>
-        I have great interests in Web Fullstack, Blockchain, Web 3, DevOps, and other state-of-the-art technologies 🛠.
+        I have great interests in Web Fullstack, InfoSec, Blockchain, Web 3, DevOps, and other state-of-the-art technologies 🛠.
     </p>
     <p>
         Besides, I am also passionate about every amazing thing in this incredible world 🌏.
