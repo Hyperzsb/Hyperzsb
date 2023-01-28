@@ -65,17 +65,20 @@ Hi 👋, here is hyperzsb
 </p>
 
 <p align="center">
+    <a href="https://www.linkedin.com/in/shaobo-zhang-584716252/">
+        <img align="center" height="32" width="48" src="https://cdn.simpleicons.org/linkedin/" alt="LinkedIn" title="LinkedIn" />
+    </a>
     <a href="https://facebook.com/hyperzsb">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" title="Facebook" height="30" width="40" />
+        <img align="center" height="32" width="48" src="https://cdn.simpleicons.org/facebook" alt="Facebook" title="Facebook" />
     </a>
     <a href="https://twitter.com/hyperzsb">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" title="Twitter" height="30" width="40" />
+        <img align="center" height="32" width="48" src="https://cdn.simpleicons.org/twitter" alt="Twitter" title="Twitter" />
     </a>
     <a href="https://stackoverflow.com/users/hyperzsb">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" title="Stack Overflow" height="30" width="40" />
+        <img align="center" height="32" width="48" src="https://cdn.simpleicons.org/stackoverflow" alt="Stack Overflow" title="Stack Overflow" />
     </a>
     <a href="https://www.youtube.com/channel/UCpFjl9dlLOTEa99rKV7trrQ">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" title="YouTube" height="30" width="40" />
+        <img align="center" height="32" width="48" src="https://cdn.simpleicons.org/youtube" alt="YouTube" title="YouTube" />
     </a>
 </p>
 
