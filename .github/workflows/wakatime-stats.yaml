@@ -5,6 +5,7 @@ on:
     # Run at 00:00 every Monday
     - cron: '0 0 * * 1'
   workflow_dispatch:
+
 jobs:
   update-readme-wakatime-:
     name: Add WakaTime stats to README.md

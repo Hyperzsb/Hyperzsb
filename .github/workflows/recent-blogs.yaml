@@ -1,7 +1,9 @@
 name: Add Recent Posts
+
 on:
-  schedule: # Run workflow automatically
-    - cron: '0 0 * * *' # Runs every day
+  schedule:
+    # Run at 00:00 every Monday
+    - cron: '0 0 * * 1'
   workflow_dispatch:
 
 jobs:
@@ -17,3 +19,4 @@ jobs:
           feed_list: "https://hyperzsb.io/feed.xml"
           max_post_count: 3
           template: "<span>[ <a href=\"$url\" title=\"$title\">$title</a> ]</span>"
+
