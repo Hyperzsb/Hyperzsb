@@ -90,7 +90,7 @@ Hi 👋, here is hyperzsb
 
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hyperzsb&layout=compact&theme=onedark&bg_color=22272e00&hide_border=true&langs_count=8" alt="Top Languages" title="Top Languages" height="170"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hyperzsb&layout=compact&theme=onedark&bg_color=22272e00&hide_border=true&langs_count=8&disable_animations=true" alt="Top Languages" title="Top Languages" height="170"/>
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
         <img src="https://github-readme-stats.vercel.app/api?username=Hyperzsb&show_icons=true&theme=onedark&bg_color=22272e00&hide_border=true&hide_rank=true&include_all_commits=true&custom_title=Hyperzsb's+GitHub+Stats&disable_animations=true" alt="GitHub Stats" title="GitHub Stats" height="170"/>
