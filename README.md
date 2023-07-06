@@ -114,23 +114,23 @@ Hi 👋, here is hyperzsb
 </h3>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-359%20hrs%2022%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-359%20hrs%2030%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-sh                       36 mins             █████████████████████████   100.00 % 
+sh                       6 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Zsh                      36 mins             █████████████████████████   100.00 % 
+Zsh                      6 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-leetcode-solutions       36 mins             █████████████████████████   100.00 % 
+leetcode-solutions       6 mins              █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 2023/06/27 UTC
+ Last Updated on 2023/07/06 UTC
 <!--END_SECTION:waka-->
 
 <p align="right">
