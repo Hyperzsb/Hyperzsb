@@ -120,17 +120,17 @@ Hi 👋, here is hyperzsb
 
 ```text
 💬 Programming Languages: 
-sh                       6 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Zsh                      6 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-leetcode-solutions       6 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 2023/07/06 UTC
+ Last Updated on 2023/07/10 UTC
 <!--END_SECTION:waka-->
 
 <p align="right">
