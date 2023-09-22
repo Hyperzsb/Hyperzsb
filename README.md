@@ -1,8 +1,8 @@
-<h1 align="center">
+<p align="center">
     <a href="https://github.com/DenverCoder1/readme-typing-svg">
         <img src="https://readme-typing-svg.herokuapp.com?font=Josefin+Sans&size=30&pause=5000&color=20C997&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+here+is+hyperzsb" alt="Hi 👋, here is hyperzsb" title="Hi 👋, here is hyperzsb"/>
     </a>
-</h1>
+</p>
 
 <!--
 <h1 align="center">
@@ -18,23 +18,23 @@ Hi 👋, here is hyperzsb
 </h1>
 -->
 
-<h3 align="center">
-    <p>
-        I am a free developer 👨‍💻 (also still a student 👨‍🎓) from China 🇨🇳.
-    </p>
-    <p>
-        I have great interests in Web Fullstack, InfoSec, Blockchain, Web 3, DevOps, and other state-of-the-art technologies 🛠.
-    </p>
-    <p>
-        Besides, I am also passionate about every amazing thing in this incredible world 🌏.
-    </p>
-</h3>
-
 <p align="center">
     <a href="https://github.com/antonkomarev/github-profile-views-counter">
         <img src="https://komarev.com/ghpvc/?username=hyperzsb&label=Profile%20views&color=0e75b6&style=flat" alt="hyperzsb" />
     </a>
 </p>
+
+<b align="center">
+    <p align="center">
+        I am a free developer 👨‍💻 (also still a student 👨‍🎓) from China 🇨🇳.
+    </p>
+    <p align="center">
+        I have great interests in Web Fullstack, InfoSec, Blockchain, Web 3, DevOps, and other state-of-the-art technologies 🛠.
+    </p>
+    <p align="center">
+        Besides, I am also passionate about every amazing thing in this incredible world 🌏.
+    </p>
+</b>
 
 <p align="center">
 🔭 I’m currently working hard for the <b>Master's Degree</b>...
