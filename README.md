@@ -114,8 +114,21 @@ Hi 👋, here is hyperzsb
 </h3>
 
 <!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On** 
 
- Last Updated on 2023/12/04 UTC
+```text
+💬 Programming Languages: 
+sh                       0 secs              █████████████████████████   100.00 % 
+
+🔥 Editors: 
+Zsh                      0 secs              █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+Terminal                 0 secs              █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 2023/12/11 UTC
 <!--END_SECTION:waka-->
 
 <p align="right">
