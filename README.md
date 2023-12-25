@@ -118,17 +118,18 @@ Hi 👋, here is hyperzsb
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+sh                       59 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Zsh                      59 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Terminal                 58 mins             █████████████████████████   98.09 % 
+learning                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
 ```
 
 
- Last Updated on 2023/12/18 UTC
+ Last Updated on 2023/12/25 UTC
 <!--END_SECTION:waka-->
 
 <p align="right">
