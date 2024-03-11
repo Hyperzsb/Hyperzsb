@@ -118,17 +118,17 @@ Hi 👋, here is hyperzsb
 
 ```text
 💬 Programming Languages: 
-sh                       3 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Zsh                      3 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-dotfiles                 3 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 2024/03/04 UTC
+ Last Updated on 2024/03/11 UTC
 <!--END_SECTION:waka-->
 
 <p align="right">
