@@ -114,8 +114,21 @@ Hi 👋, here is hyperzsb
 </h3>
 
 <!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On** 
 
- Last Updated on 2026/05/18 UTC
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+```
+
+
+ Last Updated on 2026/05/25 UTC
 <!--END_SECTION:waka-->
 
 <p align="right">
