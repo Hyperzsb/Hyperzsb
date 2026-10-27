@@ -18,34 +18,14 @@ Hi 👋, here is hyperzsb
 </h1>
 -->
 
-<p align="center">
-    <a href="https://github.com/antonkomarev/github-profile-views-counter">
-        <img src="https://komarev.com/ghpvc/?username=hyperzsb&label=Profile%20views&color=0e75b6&style=flat" alt="hyperzsb" />
-    </a>
-</p>
-
 <b align="center">
     <p align="center">
-        I am a free developer 👨‍💻 (also still a student 👨‍🎓) from China 🇨🇳.
-    </p>
-    <p align="center">
-        I have great interests in Web Fullstack, InfoSec, Blockchain, Web 3, DevOps, and other state-of-the-art technologies 🛠.
-    </p>
-    <p align="center">
-        Besides, I am also passionate about every amazing thing in this incredible world 🌏.
+        I am an agentic 🤖 developer 👨‍💻 from China 🇨🇳.
     </p>
 </b>
 
 <p align="center">
-🔭 I’m currently working hard for the <b>Master's Degree</b>...
-</p>
-
-<p align="center">
-🌱 I’m currently learning <b>Security, Go, Web 3, and other cool things</b>
-</p>
-
-<p align="center">
-💬 Ask me about <b>Web Fullstack, DevOps, and Blockchain</b>
+💬 Ask me about <b>Agent, Fullstack, DevOps, and Blockchain</b>
 </p>
 
 <p align="center">
@@ -53,7 +33,7 @@ Hi 👋, here is hyperzsb
 </p>
 
 <p align="center">
-📝 I regularly write articles on: <a href="https://hyperzsb.io/posts"><b>hyperzsb.io/posts</b></a>
+📝 I write articles on: <a href="https://hyperzsb.io/posts"><b>hyperzsb.io/posts</b></a>
 </p>
 
 <p align="center">
@@ -66,27 +46,29 @@ Hi 👋, here is hyperzsb
 
 <p align="center">
     <a href="https://www.linkedin.com/in/shaobo-zhang-584716252/">
-        <img align="center" height="32" width="48" src="https://cdn.simpleicons.org/linkedin/" alt="LinkedIn" title="LinkedIn" />
+        <img align="center" height="32" width="48" src="https://api.iconify.design/logos/linkedin-icon.svg" alt="LinkedIn" title="LinkedIn" />
     </a>
     <a href="https://facebook.com/hyperzsb">
-        <img align="center" height="32" width="48" src="https://cdn.simpleicons.org/facebook" alt="Facebook" title="Facebook" />
+        <img align="center" height="32" width="48" src="https://api.iconify.design/logos/facebook.svg" alt="Facebook" title="Facebook" />
     </a>
-    <a href="https://twitter.com/hyperzsb">
-        <img align="center" height="32" width="48" src="https://cdn.simpleicons.org/twitter" alt="Twitter" title="Twitter" />
+    <a href="https://x.com/hyperzsb">
+        <img align="center" height="32" width="48" src="https://api.iconify.design/logos/x.svg" alt="X" title="X" />
     </a>
     <a href="https://stackoverflow.com/users/hyperzsb">
-        <img align="center" height="32" width="48" src="https://cdn.simpleicons.org/stackoverflow" alt="Stack Overflow" title="Stack Overflow" />
+        <img align="center" height="32" width="48" src="https://api.iconify.design/logos/stackoverflow-icon.svg" alt="Stack Overflow" title="Stack Overflow" />
     </a>
     <a href="https://www.youtube.com/channel/UCpFjl9dlLOTEa99rKV7trrQ">
-        <img align="center" height="32" width="48" src="https://cdn.simpleicons.org/youtube" alt="YouTube" title="YouTube" />
+        <img align="center" height="32" width="48" src="https://api.iconify.design/logos/youtube-icon.svg" alt="YouTube" title="YouTube" />
     </a>
 </p>
 
+<!--
 <p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img src="https://github-profile-trophy.vercel.app/?username=hyperzsb&theme=onedark&no-bg=true&no-frame=true&column=3&title=MultiLanguage,Commits,Issues" alt="GitHub Profile Trophy" title="GitHub Profile Trophy"/>
     </a>
 </p>
+-->
 
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -142,3 +124,15 @@ No AI Coding Activity Tracked This Week
 </p>
 
 <hr />
+
+<p align="center">
+    <a href="https://github.com/antonkomarev/github-profile-views-counter">
+        <img src="https://komarev.com/ghpvc/?username=hyperzsb&label=Profile%20views&color=0e75b6&style=flat" alt="hyperzsb" />
+    </a>
+</p>
+
+<p align="center">
+    <i>
+        Always Happy to See You!
+    </i>
+</p>
